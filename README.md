@@ -16,6 +16,8 @@ Test Data Builder Pattern: 🏗️ Implement dynamic data-driven testing by buil
 
 Utility Classes (Utils.java): 🛠️ Create reusable helper functions like API request initialization, logging, and custom assertion methods.
 
+Cucumber HTML Reporting: Generating detailed HTML reports after test execution, providing insights into pass/fail rates, and execution statistics.
+
 Global Properties (global.properties File): 🌐 Centralize environment-specific configurations (e.g., base URLs, credentials) to simplify test execution across multiple environments.
 
 🌟 With this framework, we can:
